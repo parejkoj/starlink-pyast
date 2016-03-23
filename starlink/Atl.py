@@ -197,7 +197,7 @@ def readfitswcs( hdu, Iwc=False ):
 	    "Encoding" attribute in SUN/211.
 
          Iwc: Include the Intermediate World Coordinate system in the
-        returned FrameSet, to allow the addition of e.g. a distored
+        returned FrameSet, to allow the addition of e.g. a distorted
         cartesian frame between the image frame and sky.
 
       Example:
